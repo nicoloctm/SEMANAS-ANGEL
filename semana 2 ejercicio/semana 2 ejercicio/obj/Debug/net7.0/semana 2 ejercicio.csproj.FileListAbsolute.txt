@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\bin\Debug\net7.0\semana 2 ejercicio.exe
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\bin\Debug\net7.0\semana 2 ejercicio.deps.json
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\bin\Debug\net7.0\semana 2 ejercicio.runtimeconfig.json
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\bin\Debug\net7.0\semana 2 ejercicio.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\bin\Debug\net7.0\semana 2 ejercicio.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\refint\semana 2 ejercicio.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\semana 2 ejercicio.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 ejercicio\semana 2 ejercicio\obj\Debug\net7.0\ref\semana 2 ejercicio.dll
