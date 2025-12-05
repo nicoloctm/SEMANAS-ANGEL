@@ -1,0 +1,44 @@
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.exe
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.deps.json
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.runtimeconfig.json
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\refint\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\SEMANAS\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\ref\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.exe
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.deps.json
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.runtimeconfig.json
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\refint\semana 1 recursivo.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\ref\semana 1 recursivo.dll
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.exe
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.deps.json
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.runtimeconfig.json
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.dll
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\bin\Debug\net7.0\semana 1 recursivo.pdb
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.AssemblyInfoInputs.cache
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.AssemblyInfo.cs
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.csproj.CoreCompileInputs.cache
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.dll
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\refint\semana 1 recursivo.dll
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.pdb
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\semana 1 recursivo.genruntimeconfig.cache
+E:\Trabajos Esquizos\semana 1 recursivo\semana 1 recursivo\obj\Debug\net7.0\ref\semana 1 recursivo.dll
