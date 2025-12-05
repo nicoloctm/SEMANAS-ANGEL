@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\bin\Debug\net7.0\semana 2 eficiencia.exe
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\bin\Debug\net7.0\semana 2 eficiencia.deps.json
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\bin\Debug\net7.0\semana 2 eficiencia.runtimeconfig.json
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\bin\Debug\net7.0\semana 2 eficiencia.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\bin\Debug\net7.0\semana 2 eficiencia.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\refint\semana 2 eficiencia.dll
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.pdb
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\semana 2 eficiencia.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\SEMANAS\visual studio\semana 2 eficiencia\semana 2 eficiencia\obj\Debug\net7.0\ref\semana 2 eficiencia.dll
